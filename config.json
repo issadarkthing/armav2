@@ -1,0 +1,9 @@
+{
+  "upperCaseLetters": true,
+  "lowerCaseLetters": true,
+  "numbers": true,
+  "symbols": true,
+  "recursionLayer": 3,
+  "length": 24,
+  "websites": ["habbo.com"]
+}
