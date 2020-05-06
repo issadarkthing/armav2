@@ -1,3 +1,5 @@
 node_modules/
 .vscode/tasks.json
 dist/
+npm-debug.log
+package-lock.json
