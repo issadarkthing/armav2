@@ -43,7 +43,7 @@ export function grabPassword(website: string, user: string, passw: string, other
 
 
 
-  const _profile = readConfigFile('./config.json')
+  const _profile = readConfigFile('/home/terra/Documents/system33/typescript/armav2/config.json')
 
 
   if(!_profile) throw Error("Missing profile")

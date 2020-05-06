@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^13.7.7",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {}

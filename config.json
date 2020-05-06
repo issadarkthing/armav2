@@ -3,7 +3,7 @@
   "lowerCaseLetters": true,
   "numbers": true,
   "symbols": true,
-  "recursionLayer": 3,
-  "length": 24,
+  "recursionLayer": 4,
+  "length": 20,
   "websites": ["habbo.com"]
 }
